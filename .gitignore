@@ -1,0 +1,8 @@
+/node_modules
+/bai01/node_modules
+
+# Build outputs
+/dist
+/build
+/out
+/.next
